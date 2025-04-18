@@ -1,8 +1,7 @@
 # Customer Churn Prediction Project
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) 
-[![Streamlit](https://img.shields.io/badge/streamlit-dashboard-orange)](https://streamlit.io/) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Streamlit](https://img.shields.io/badge/streamlit-dashboard-orange)](https://streamlit.io/)
 
 ---
 
@@ -23,7 +22,7 @@ A production-ready, end-to-end pipeline for predicting customer churn using the 
 
 ## 📊 Dashboard Preview
 ![Dashboard Screenshot](dashboard_screenshot.png)
-*Example: Churn distribution and SHAP explainability in the dashboard*
+*Replace `dashboard_screenshot.png` with a real screenshot of your dashboard for best results!*
 
 ---
 
@@ -61,11 +60,6 @@ A production-ready, end-to-end pipeline for predicting customer churn using the 
 - Focus retention on customers with high monthly charges and short tenure.
 - Offer bundled services to increase stickiness and reduce churn.
 - Monitor high-risk clusters for proactive outreach.
-
----
-
-## 📖 License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 

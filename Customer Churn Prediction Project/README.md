@@ -1,7 +1,11 @@
 # Customer Churn Prediction Project
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) 
+<<<<<<< HEAD
 [![Streamlit](https://img.shields.io/badge/streamlit-dashboard-orange)](https://streamlit.io/)
+=======
+[![Streamlit](https://img.shields.io/badge/streamlit-dashboard-orange)](https://streamlit.io/) 
+>>>>>>> c30b6f464676c526361d8c10a921ed18a64e8611
 
 ---
 
